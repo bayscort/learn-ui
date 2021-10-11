@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Learn UI</string>
+    <string name="_735">$735</string>
+    <string name="stock_hanya_5_buah">stock hanya 5 buah</string>
+    <string name="google_officially_announced_its_much_anticipated_pixel_phones_the_pixel_and_pixel_xl_on_october_4_we_attended_google_s_londonuk_event_mirroring_the_main_one_taking_place_in_san_francisco_us_where_the_firm_unwrapped_the_new_android_7_1_nougat_devices_which_will_apparently_usurp_google_s_long_standing_nexus_series">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on october 4. We attended Google\'s LondonUK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google\'s long-standing Nexus series.</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="_5_0_inches">5.0 inches</string>
+    <string name="fhd_amoled_at_441_ppi">FHD AMOLED at 441 ppi</string>
+    <string name="_2_5d_corning_gorilla_glass_4">2.5D Corning Gorilla Glass 4</string>
+    <string name="size">Size</string>
+    <string name="_5_6_x_2_7_x_0_2_0_3_inches_143_8_x_69_5_x_7_3_8_5_mm">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="battery">Battery</string>
+    <string name="_2_770_mah_battery">2,770 mAh battery</string>
+    <string name="standby_time_lte_up_to_19_days">Standby time (LTE): up to 19 days</string>
+    <string name="talk_time_3g_wcdma_up_to_26_hours">Talk Time (3g/WCDMA): up to 26 hours</string>
+    <string name="internet_use_time_wi_fi_up_to_13_hours">Internet use time (Wi-Fi): up to 13 hours</string>
+    <string name="internet_use_time_lte_up_to_13_hours">Internet use time (LTE): up to 13 hours</string>
+    <string name="video_playback_up_to_13_hours">Video playback: up to 13 hours</string>
+    <string name="audio_playback_via_headset_up_to_110_hours">Audio playback (via headset): up to 110 hours</string>
+    <string name="fast_charging_up_to_7_hours_of_use_from_only_15_minutes_of_charging">Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="beli">Beli</string>
+</resources>
